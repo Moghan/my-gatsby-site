@@ -9,4 +9,4 @@
 
 # A minimal gatsby site for testing
 
-test
+test 2
